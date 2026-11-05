@@ -40,6 +40,10 @@ Base sintética com 1.500 chamados, gerada com seed fixa (`numpy.random.default_
 - Área com maior tempo médio: Compras (33,7 h)
 - Categoria com mais chamados fora do SLA: Cadastro (41)
 
+![SLA](docs/img/sla-dentro-fora.png)
+![Tempo médio por área](docs/img/tempo-medio-area.png)
+![Categorias com atraso](docs/img/categorias-atraso.png)
+
 ## Notebooks
 
 | Notebook | Função |
